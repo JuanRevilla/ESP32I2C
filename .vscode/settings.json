@@ -1,3 +1,9 @@
 {
-  "C_Cpp.intelliSenseEngine": "Tag Parser"
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "task.h": "c",
+    "mcpwm_prelude.h": "c",
+    "esp_log.h": "c",
+    "pid_ctrl.h": "c"
+  }
 }
